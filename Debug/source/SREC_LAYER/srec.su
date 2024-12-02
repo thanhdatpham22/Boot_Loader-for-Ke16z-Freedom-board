@@ -1,0 +1,4 @@
+../source/SREC_LAYER/srec.c:21:6:getNibble	24	static
+../source/SREC_LAYER/srec.c:49:6:getByte	32	static
+../source/SREC_LAYER/srec.c:61:6:parseLine	56	static
+../source/SREC_LAYER/srec.c:181:6:printArray	24	static

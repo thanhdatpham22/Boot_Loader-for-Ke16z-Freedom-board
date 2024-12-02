@@ -1,0 +1,7 @@
+../source/FLASH/flash.c:13:6:Init_Flash	8	static
+../source/FLASH/flash.c:19:6:Flash_Erase	16	static
+../source/FLASH/flash.c:45:6:Flash_EraseMultiSector	24	static
+../source/FLASH/flash.c:62:6:Flash_Write	16	static
+../source/FLASH/flash.c:91:10:Flash_Read	24	static
+../source/FLASH/flash.c:97:6:Flash_ReadRange	24	static
+../source/FLASH/flash.c:111:6:Flash_VerifyData	40	static

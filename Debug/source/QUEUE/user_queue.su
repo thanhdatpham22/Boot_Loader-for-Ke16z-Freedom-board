@@ -1,0 +1,8 @@
+../source/QUEUE/user_queue.c:13:6:InitQueue	16	static
+../source/QUEUE/user_queue.c:20:16:Increase	16	static
+../source/QUEUE/user_queue.c:25:13:isFull	16	static
+../source/QUEUE/user_queue.c:30:13:isEmpty	16	static
+../source/QUEUE/user_queue.c:35:6:enQueue	24	static
+../source/QUEUE/user_queue.c:49:6:deQueue	128	static
+../source/QUEUE/user_queue.c:65:6:print_Queue	128	static
+../source/QUEUE/user_queue.c:82:10:queueSize	16	static
