@@ -1,0 +1,10 @@
+../drivers/fsl_gpio.h:329:20:GPIO_PinWrite	24	static
+../drivers/fsl_gpio.h:681:20:FGPIO_PinWrite	24	static
+../drivers/fsl_gpio.c:73:17:GPIO_GetInstance	24	static
+../drivers/fsl_gpio.c:117:6:GPIO_PinInit	24	static
+../drivers/fsl_gpio.c:160:10:GPIO_PortGetInterruptFlags	24	static
+../drivers/fsl_gpio.c:218:6:GPIO_PortClearInterruptFlags	24	static
+../drivers/fsl_gpio.c:312:17:FGPIO_GetInstance	24	static
+../drivers/fsl_gpio.c:373:6:FGPIO_PinInit	24	static
+../drivers/fsl_gpio.c:402:10:FGPIO_PortGetInterruptFlags	24	static
+../drivers/fsl_gpio.c:417:6:FGPIO_PortClearInterruptFlags	24	static

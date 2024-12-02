@@ -1,0 +1,7 @@
+C:\Users\phamd\Documents\MCUXpressoIDE_24.9.25\workspace\DatPV18_MOOC_BOOT_LOADER\CMSIS/core_cm0plus.h:741:22:__NVIC_EnableIRQ	16	static
+C:\Users\phamd\Documents\MCUXpressoIDE_24.9.25\workspace\DatPV18_MOOC_BOOT_LOADER\drivers/fsl_common_arm.h:570:24:EnableIRQ	24	static
+C:\Users\phamd\Documents\MCUXpressoIDE_24.9.25\workspace\DatPV18_MOOC_BOOT_LOADER\drivers/fsl_lpuart.h:804:23:LPUART_ReadByte	32	static
+../source/UART/uart.c:33:6:Init_UART	32	static
+../source/UART/uart.c:56:6:LPUART0_IRQHandler	112	static
+../source/UART/uart.c:84:6:Handel_Srec	320	static
+../source/UART/uart.c:140:6:Init_Queue	8	static

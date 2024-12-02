@@ -1,0 +1,15 @@
+C:\Users\phamd\Documents\MCUXpressoIDE_24.9.25\workspace\DatPV18_MOOC_BOOT_LOADER\drivers/fsl_clock.h:594:20:CLOCK_EnableClock	16	static
+C:\Users\phamd\Documents\MCUXpressoIDE_24.9.25\workspace\DatPV18_MOOC_BOOT_LOADER\drivers/fsl_port.h:360:20:PORT_SetPinConfig	32	static
+C:\Users\phamd\Documents\MCUXpressoIDE_24.9.25\workspace\DatPV18_MOOC_BOOT_LOADER\drivers/fsl_port.h:463:20:PORT_SetPinMux	24	static
+C:\Users\phamd\Documents\MCUXpressoIDE_24.9.25\workspace\DatPV18_MOOC_BOOT_LOADER\drivers/fsl_port.h:478:20:PORT_EnablePinsDigitalFilter	24	static
+C:\Users\phamd\Documents\MCUXpressoIDE_24.9.25\workspace\DatPV18_MOOC_BOOT_LOADER\drivers/fsl_port.h:532:20:PORT_SetPinInterruptConfig	24	static
+../board/pin_mux.c:31:6:BOARD_InitBootPins	8	static
+../board/pin_mux.c:54:6:BOARD_InitPins	8	static
+../board/pin_mux.c:81:6:BOARD_InitOSCPins	8	static
+../board/pin_mux.c:113:6:BOARD_InitTOUCHPins	16	static
+../board/pin_mux.c:173:6:BOARD_InitBUTTONSPins	24	static
+../board/pin_mux.c:239:6:BOARD_InitTHERMISTORPins	16	static
+../board/pin_mux.c:295:6:BOARD_InitACCELPins	32	static
+../board/pin_mux.c:402:6:BOARD_InitDEBUG_UARTPins	16	static
+../board/pin_mux.c:456:6:BOARD_InitLEDsPins	32	static
+../board/pin_mux.c:546:6:BOARD_InitCANPins	24	static

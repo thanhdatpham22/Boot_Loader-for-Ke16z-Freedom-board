@@ -1,0 +1,11 @@
+C:\Users\phamd\Documents\MCUXpressoIDE_24.9.25\workspace\DatPV18_MOOC_BOOT_LOADER\drivers/fsl_clock.h:623:20:CLOCK_SetIpSrc	24	static
+C:\Users\phamd\Documents\MCUXpressoIDE_24.9.25\workspace\DatPV18_MOOC_BOOT_LOADER\drivers/fsl_clock.h:712:20:CLOCK_SetVlprModeSysClkConfig	24	static
+C:\Users\phamd\Documents\MCUXpressoIDE_24.9.25\workspace\DatPV18_MOOC_BOOT_LOADER\drivers/fsl_clock.h:732:20:CLOCK_SetRunModeSysClkConfig	24	static
+C:\Users\phamd\Documents\MCUXpressoIDE_24.9.25\workspace\DatPV18_MOOC_BOOT_LOADER\drivers/fsl_clock.h:752:20:CLOCK_GetCurSysClkConfig	24	static
+C:\Users\phamd\Documents\MCUXpressoIDE_24.9.25\workspace\DatPV18_MOOC_BOOT_LOADER\drivers/fsl_clock.h:1189:20:CLOCK_SetXtal0Freq	16	static
+C:\Users\phamd\Documents\MCUXpressoIDE_24.9.25\workspace\DatPV18_MOOC_BOOT_LOADER\drivers/fsl_smc.h:256:20:SMC_SetPowerModeProtection	16	static
+C:\Users\phamd\Documents\MCUXpressoIDE_24.9.25\workspace\DatPV18_MOOC_BOOT_LOADER\drivers/fsl_smc.h:275:33:SMC_GetPowerModeState	16	static
+../board/clock_config.c:60:13:CLOCK_CONFIG_FircSafeConfig	40	static
+../board/clock_config.c:96:6:BOARD_InitBootClocks	8	static
+../board/clock_config.c:187:6:BOARD_BootClockRUN	16	static
+../board/clock_config.c:295:6:BOARD_BootClockVLPR	8	static

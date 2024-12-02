@@ -1,0 +1,2 @@
+../source/BOOT_LOADER/boot_loader.c:19:6:JumpToApplication	32	static
+../source/BOOT_LOADER/boot_loader.c:48:6:boot	16	static
